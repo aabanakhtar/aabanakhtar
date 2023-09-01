@@ -1,5 +1,4 @@
-### Hello There 🐔
-I guess Im a new programmer
+### Hello 
 
 <!---
 aabanakhtar-github/aabanakhtar-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
