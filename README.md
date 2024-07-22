@@ -1,7 +1,7 @@
 ### Welcome to my Github. 
 Random C++ Artist
 ## Cool Projects: 
-- Multiplayer platformer demo: https://github.com/aabanakhtar-github/sdl-enet-multiplayer-demo
+- Multiplayer platformer experiment: https://github.com/aabanakhtar-github/sdl-enet-multiplayer-demo
 - Custom Game Entity Component System Framework: https://github.com/aabanakhtar-github/CustomECS
 - Bytecode Interpreter for my own Programming language: <coming soon 👀>
 <!---
