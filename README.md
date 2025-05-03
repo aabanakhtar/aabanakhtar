@@ -5,7 +5,7 @@ Random C++ Artist
 - Custom Game Entity Component System Framework: https://github.com/aabanakhtar-github/CustomECS
 - Bytecode Interpreter for my own Programming language:  https://github.com/aabanakhtar-github/vortex-lang
 - A Stack based VM: https://github.com/aabanakhtar-github/vvm
-- A Raytracer in C++20: https://github.com/aabanakhtar-github/raytracer
+- Terminal Emulator: https://github.com/aabanakhtar-github/temu
 
 More dumb stuff coming soon
 <!---
