@@ -7,7 +7,7 @@ Random C++ Artist
 - A Stack based VM: https://github.com/aabanakhtar-github/vvm
 - Terminal Emulator: https://github.com/aabanakhtar-github/temu
 
-More dumb stuff coming soon
+More silly stuff coming soon
 <!---
 aabanakhtar-github/aabanakhtar-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
