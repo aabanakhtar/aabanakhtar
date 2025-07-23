@@ -1,14 +1,20 @@
-### Welcome to my Github. 
-Random C++ Artist
-## Cool Projects: 
-- Multiplayer platformer experiment: https://github.com/aabanakhtar-github/sdl-enet-multiplayer-demo
-- Custom Game Entity Component System Framework: https://github.com/aabanakhtar-github/CustomECS
-- Bytecode Interpreter for my own Programming language:  https://github.com/aabanakhtar-github/vortex-lang
-- A Stack based VM: https://github.com/aabanakhtar-github/vvm
-- Terminal Emulator: https://github.com/aabanakhtar-github/temu
+# 👋 Aaban Akhtar
 
-More silly stuff coming soon
-<!---
-aabanakhtar-github/aabanakhtar-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+High school junior focused on low-level programming, robotics, and building real-world systems with C++ and Python.
+
+## 🧠 Interests
+- Systems programming
+- Emulation (6502, terminals, etc.)
+- Robotics design and software (FTC)
+- Embedded and hardware-level development
+- Performance PC building
+
+## 🔧 Tools & Languages
+- C++
+
+## 📂 Projects
+- Look at them!
+
+## 📫 Contact
+- GitHub: [@aabanakhtar](https://github.com/aabanakhtar)
+
